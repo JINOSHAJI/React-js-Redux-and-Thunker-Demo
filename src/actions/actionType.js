@@ -1,0 +1,8 @@
+export const ADD_MOVIE = 'ADD_MOVIE';
+export const GET_MOVIES = 'GET_MOVIES';
+export const SET_MOVIES='SET_MOVIES';
+export const MOVIE_LOADING='MOVIE_LOADING';
+export const MOVIE_LOADED='MOVIE_LOADED';
+export const SET_MOVIE_TITLE='SET_MOVIE_TITLE';
+export const SET_MOVIE_RELEASE_YEAR='SET_MOVIE_RELEASE_YEAR';
+ 
